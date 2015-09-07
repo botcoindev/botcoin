@@ -1,0 +1,5 @@
+botcoin-qt usr/bin
+share/pixmaps/bitcoin32.xpm usr/share/pixmaps
+share/pixmaps/bitcoin80.xpm usr/share/pixmaps
+debian/botcoin-qt.desktop usr/share/applications
+debian/botcoin-qt.protocol usr/share/kde4/services/
